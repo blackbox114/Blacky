@@ -1,0 +1,1 @@
+dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p1 rootfstype=vfat rootflags=umask=000 elevator=deadline fsck.repair=yes rootwait init=/pi-init2

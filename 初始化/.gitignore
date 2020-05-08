@@ -1,0 +1,5 @@
+src/golang.org
+pkg/
+*.zip
+*~
+.DS_Store

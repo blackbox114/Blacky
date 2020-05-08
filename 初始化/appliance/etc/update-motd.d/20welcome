@@ -1,0 +1,39 @@
+#!/bin/sh
+MAC=$(cat /sys/class/net/wlan0/address)
+
+if [ -f /boot/TODO_ro ]; then
+    echo
+    echo "Welcome to the NMID@Hardware Raspberry Pi distribution"
+    echo "The Pi is currently setting up the read-only file system"
+    echo "It should reboot shortly and be ready to use"
+    exit 0
+fi
+
+echo
+echo "Welcome to the NMID@Hardware Raspberry Pi distribution"
+echo "The setup process is almost complete. You just need to register"
+echo "the Pi with your network to give it internet access. Go to"
+echo "https://github.com/blackbox114/Blacky and follow the onscreen instructions"
+echo "As the wireless Hardware MAC address enter:"
+echo
+echo $MAC
+echo
+echo "Then reboot the Pi (sudo reboot) and run the following command"
+echo
+echo "bash install_packages.sh"
+echo "NMID@Hardware"
+echo "                       "
+echo "                       "
+echo "............@@@@@@@... "
+echo "..@@@@@@@@@.@@@@@@@... "
+echo "..@@@@@@@@...@@@@@@... "
+echo "..@@@@@........@@@@... "
+echo "...................... "
+echo "...@@@@........@@@@@.. "
+echo "...@@@@@@...@@@@@@@@.. "
+echo "...@@@@@@@.@@@@@@@@@.. "
+echo "...@@@@@@@............ "
+echo "N.     M.     I.     D."
+echo "                       "
+echo "                       "
+
