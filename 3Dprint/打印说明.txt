@@ -1,0 +1,13 @@
+Part name	  STL 名称	               数量
+身体部分1	                  FrontFront.stl 	 1
+身体部分2	                  FrontBack.stl	 1
+身体部分3	                  BackFront.stl	 1
+身体部分4		  BackBack.stl	 1
+树莓派外壳	  picase.stl	 1
+		
+髋关节内部	  HipInsideFDM.stl	 4
+髋关节外壳	  HipOutsideFDM.stl	 4
+
+请采用PLA打印，速度80%，填充50%	
+
+目前还在测试，暂未发行	
