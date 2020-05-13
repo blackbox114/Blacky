@@ -3,11 +3,15 @@ Part name	  STL 名称	               数量
 身体部分2	                  FrontBack.stl	 1
 身体部分3	                  BackFront.stl	 1
 身体部分4		  BackBack.stl	 1
-树莓派外壳	  picase.stl	 1
+
+树莓派托架版本1         raspberry pad H	 1
+树莓派托架版本2         raspberry pad V	 1
 		
 髋关节内部	  HipInsideFDM.stl	 4
 髋关节外壳	  HipOutsideFDM.stl	 4
 
-请采用PLA打印，速度80%，填充50%	
+采用PLA打印，速度80%，填充50%
+采用树脂打印，参数默认即可
 
-目前还在测试，暂未发行	
+适配的碳纤维管直径为8mm
+		
