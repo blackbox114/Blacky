@@ -5,13 +5,13 @@ The project originated from [StanfordPpper](https://github.com/stanfordroboticsc
 ### Overview
 Still waiting for the revised parts, currently debugging joint motion
 
-<img width="80%" src="img/Overview0.jpg">
+<div align=center>!<img width="80%" src="img/Overview0.jpg">
 
 
 ### PCB
 Added cooling fan, the next step is to integrate the power chip to the board. Find Gerber on this repo , or Visit this link[this link](https://easyeda.com/blackboxx114/arduboy) .
 
-<div align=center>!<img width="80%" src="img/pcb1.png">
+<img width="80%" src="img/pcb1.png">
 
 <img width="80%" src="img/pcb2.jpg">
 
