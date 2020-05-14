@@ -1,5 +1,5 @@
-#树莓派初始化
-###修改wifi配置
+# 树莓派初始化
+### 修改wifi配置
 请在*Blacky\初始化\appliance\etc\wpa_supplicant*中添加自己的wifiSSID和PSWD，具体格式参考：
 
 ssid：LBm
@@ -14,7 +14,7 @@ network={
 ```
 
 
-###覆盖文件
+### 覆盖文件
 烧录镜像完成后，请直接将本仓库复制粘贴到boot文件夹，覆盖重复的文件。
 
 ### 启动和ssh
