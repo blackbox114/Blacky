@@ -5,7 +5,7 @@ The project originated from [StanfordPpper](https://github.com/stanfordroboticsc
 ### Overview
 Still waiting for the revised parts, currently debugging joint motion
 
-<div align=center>!<img width="80%" src="img/Overview0.jpg"><div align=center>!
+<div align="center"><img width="80%" src="img/Overview0.jpg"> </div>
 
 
 ### PCB
