@@ -5,17 +5,17 @@ The project originated from [StanfordPpper](https://github.com/stanfordroboticsc
 ### Overview
 Still waiting for the revised parts, currently debugging joint motion
 
-<div align="center"><img width="80%" src="img/Overview0.jpg"> </div>
+<div align="center"><img width="70%" src="img/Overview0.jpg"> </div>
 
 
 ### PCB
 Added cooling fan, the next step is to integrate the power chip to the board. Find Gerber on this repo , or Visit this link[this link](https://easyeda.com/blackboxx114/arduboy) .
 
-<img width="80%" src="img/pcb1.png">
+<div align="center"><img width="70%" src="img/pcb1.png"> </div>
 
-<img width="80%" src="img/pcb2.jpg">
+<div align="center"><img width="70%" src="img/pcb2.jpg"> </div>
 
 ### New Structure
 curing SLA print+Carbon fiber tube, Lighter and easy to install other modules.
 
-<img width="80%" src="img/structure0.jpg">
+<div align="center"><img width="70%" src="img/structure0.jpg"> </div>
