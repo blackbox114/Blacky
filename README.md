@@ -2,10 +2,17 @@
 # Blacky
 The project originated from [StanfordPpper](https://github.com/stanfordroboticsclub/StanfordQuadruped) ，Designed to improve some structures to achieve better performance, and learn the algorithms used in the pupper. Thanks to Nathan and his team for their work, it ’s really great.
 
+### current condition
+Still waiting for the revised parts, currently debugging joint motion.
+
+<div align="center"><img width="70%" src="img/structure1.jpg"> </div>
+
 ### Overview
-Still waiting for the revised parts, currently debugging joint motion
+12Dof, use pi4 and CLS6336servo.
 
 <div align="center"><img width="70%" src="img/Overview0.jpg"> </div>
+
+<div align="center"><img width="70%" src="img/structure1.jpg"> </div>
 
 
 ### PCB
