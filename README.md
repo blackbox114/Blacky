@@ -1,13 +1,13 @@
 
 # Blacky
 
-<div align="center"><img width="80%" src="img/overview1.jpg"> </div>
+<div align="center"><img width="90%" src="img/title.jpg"> </div>
 
 The project originated from [StanfordPupper](https://github.com/stanfordroboticsclub/StanfordQuadruped) ，Designed to improve some structures to achieve better performance, and learn the algorithms used in the pupper. Thanks to Nathan and his team for their work, it ’s really great. Feel free to [raise an issue](https://github.com/blackbox114/blacky/issues/new/choose)  or email me at chen.junfei@nexuslink.cn
 
 ### video
 
-https://www.youtube.com/watch?v=1x7NVMNXoi4
+https://www.youtube.com/watch?v=EFbW__V69vM
 
 https://www.bilibili.com/video/BV1UC4y1H7Rh/
 
@@ -15,9 +15,9 @@ ps:正在本地化和推出中文教程
 
 
 ### current condition 
-Still waiting for the revised parts, currently debugging joint motion.
+Now calibrating each of blacky's 12 servo motors.
 
-<div align="center"><img width="70%" src="img/structure1.jpg"> </div>
+<div align="center"><img width="70%" src="img/calibrate.png"> </div>
 
 
 ### Overview
