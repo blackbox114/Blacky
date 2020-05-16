@@ -9,7 +9,7 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 
 https://www.youtube.com/watch?v=EFbW__V69vM
 
-https://www.bilibili.com/video/BV1UC4y1H7Rh/
+https://www.bilibili.com/video/bv1ze411W7p7
 
 ps:正在本地化和推出中文教程 
 
