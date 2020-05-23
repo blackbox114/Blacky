@@ -7,17 +7,11 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 
 ### Bilibili
 
-<iframe src="//player.bilibili.com/player.html?aid=243253992&bvid=BV1Ye411W7i8&cid=193873411&page=1"width="50" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
+[![ScreenShot](/img/videoB.png)](https://www.bilibili.com/video/BV1Ye411W7i8/)
 
 ### YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VOyvlLOYNlo?start=2" "width="300" height="600" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+[![ScreenShot](/img/videoY.png)](https://www.youtube.com/watch?v=VOyvlLOYNlo）
 
 ps:正在本地化和推出中文教程 
 
