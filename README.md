@@ -5,11 +5,11 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 
 ### Bilibili
 
-[![ScreenShot](/img/videoB.png)](https://www.bilibili.com/video/BV1Ye411W7i8/)
+![ScreenShot](/img/videoB.png)](https://www.bilibili.com/video/BV1Ye411W7i8/)
 
 ### YouTube
 
-[![ScreenShot](/img/videoY.png)](https://www.youtube.com/watch?v=VOyvlLOYNlo）
+![ScreenShot](/img/videoY.png)](https://www.youtube.com/watch?v=VOyvlLOYNlo）
 
 ps:正在本地化和推出中文教程 
 
