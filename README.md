@@ -1,8 +1,6 @@
 
 # Blacky
 
-<div align="center"><img width="90%" src="img/title.jpg"> </div>
-
 The project originated from [StanfordPupper](https://github.com/stanfordroboticsclub/StanfordQuadruped) ，Designed to improve some structures to achieve better performance, and learn the algorithms used in the pupper. Thanks to Nathan and his team for their work, it ’s really great. Feel free to [raise an issue](https://github.com/blackbox114/blacky/issues/new/choose)  or email me at chen.junfei@nexuslink.cn
 
 ### Bilibili
