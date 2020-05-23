@@ -5,11 +5,19 @@
 
 The project originated from [StanfordPupper](https://github.com/stanfordroboticsclub/StanfordQuadruped) ，Designed to improve some structures to achieve better performance, and learn the algorithms used in the pupper. Thanks to Nathan and his team for their work, it ’s really great. Feel free to [raise an issue](https://github.com/blackbox114/blacky/issues/new/choose)  or email me at chen.junfei@nexuslink.cn
 
-### video
+### Bilibili
 
-https://youtu.be/VOyvlLOYNlo
+<iframe src="//player.bilibili.com/player.html?aid=243253992&bvid=BV1Ye411W7i8&cid=193873411&page=1"width="50" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-https://www.bilibili.com/video/BV1je411W7QN/
+
+
+### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOyvlLOYNlo?start=2" "width="300" height="600" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 ps:正在本地化和推出中文教程 
 
