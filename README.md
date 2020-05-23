@@ -9,7 +9,7 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 
 ### YouTube
 
-[![ScreenShot](/img/videoY.png)](https://www.youtube.com/watch?v=VOyvlLOYNlo）
+[![ScreenShot](/img/videoY.png)](https://www.youtube.com/watch?v=VOyvlLOYNlo)
 
 ps:正在本地化和推出中文教程 
 
