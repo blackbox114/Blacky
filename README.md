@@ -5,7 +5,7 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 
 ### Bilibili
 
-[![ScreenShot](/img/videoB.png)](https://www.bilibili.com/video/BV1Ye411W7i8/)
+[![ScreenShot](/img/videoB.png)](https://www.bilibili.com/video/BV1B54y1D7uH/)
 
 ### YouTube
 
