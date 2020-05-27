@@ -14,10 +14,12 @@ The project originated from [StanfordPupper](https://github.com/stanfordrobotics
 ps:正在本地化和推出中文教程 
 
 
-### current condition 
-Now calibrating each of blacky's 12 servo motors.
 
-<div align="center"><img width="70%" src="img/calibrate.png"> </div>
+
+### current condition 
+Now calibrating hip and leg.
+
+
 
 
 ### Overview
