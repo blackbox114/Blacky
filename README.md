@@ -38,3 +38,8 @@ Added cooling fan, the next step is to integrate the power chip to the board. Fi
 curing SLA print+Carbon fiber tube, Lighter and easy to install other modules.
 
 <div align="center"><img width="70%" src="img/structure0.jpg"> </div>
+
+
+
+[to be continued...]
+
