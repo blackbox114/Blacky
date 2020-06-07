@@ -9,6 +9,8 @@ Part name	  STL 名称	               数量
 		
 髋关节内部	           HipInsideFDM.stl	 4
 髋关节外壳	           HipOutsideFDM.stl	 4
+减震足底	                           Boots.stl	                 4
+
 
 采用PLA打印，速度80%，填充50%
 采用树脂打印，参数默认即可
