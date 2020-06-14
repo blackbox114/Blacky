@@ -22,9 +22,9 @@ network={
 正常上电启动。请提供稳定网络进行初始化，初始化需要一些时间，初次初始化可以外界屏幕和键盘观察进度。ok后可直接ssh进入。请按照提示修改密码和ip
 
 ### 进入写模式
-
+```shell
 rw
-
+```
 ### 换源
 ```shell
 $sudo sed -i 's|raspbian.raspberrypi.org|mirrors.ustc.edu.cn/raspbian|g' /etc/apt/sources.list
