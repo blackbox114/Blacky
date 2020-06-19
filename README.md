@@ -1,6 +1,8 @@
 
 # Blacky
 
+<div align="center"><img width="100%" src="img/Overview1.jpg"> </div>
+
 The project originated from [StanfordPupper](https://github.com/stanfordroboticsclub/StanfordQuadruped) ，Designed to improve some structures to achieve better performance, and learn the algorithms used in the pupper. Thanks to Nathan and his team for their work, it ’s really great. Feel free to [raise an issue](https://github.com/blackbox114/blacky/issues/new/choose)  or email me at chen.junfei@nexuslink.cn
 
 ### Bilibili
@@ -35,7 +37,13 @@ Added cooling fan, the next step is to integrate the power chip to the board. Fi
 <div align="center"><img width="70%" src="img/pcb2.jpg"> </div>
 
 ### New Structure
-curing SLA print+Carbon fiber tube, Lighter and easy to install other modules.
+curing SLA print+Carbon fiber tube, Lighter and easy to install other modules.  boots.jpg
 
 <div align="center"><img width="70%" src="img/structure0.jpg"> </div>
+
+PLA3Dprint boots+M3 Sponge mat
+
+<div align="center"><img width="70%" src="img/boots.jpg"> </div>
+
+
 
